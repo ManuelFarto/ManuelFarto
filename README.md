@@ -1,16 +1,37 @@
-### Hola, Soy Manu 👋🏻😄
+# 🎮 ¡Hola! Soy Manuel Farto  
+### 🚀 Programador de Videojuegos y VR | Unity | Unreal Engine  
 
-```
+🔹 Apasionado por la programación y el desarrollo de videojuegos. Con experiencia en **Unity (C#)** y **Unreal Engine (Blueprints)**, me encanta crear experiencias inmersivas, desde juegos hasta entornos de realidad virtual.  
 
-__/\\\\____________/\\\\_______________________/\\\\\__________________________________________________________        
- _\/\\\\\\________/\\\\\\_____________________/\\\///___________________________________________________________       
-  _\/\\\//\\\____/\\\//\\\____________________/\\\_______________________________________/\\\____________________      
-   _\/\\\\///\\\/\\\/_\/\\\__/\\\\\\\\\_____/\\\\\\\\\____/\\\\\\\\\_____/\\/\\\\\\\___/\\\\\\\\\\\_____/\\\\\____     
-    _\/\\\__\///\\\/___\/\\\_\////////\\\___\////\\\//____\////////\\\___\/\\\/////\\\_\////\\\////____/\\\///\\\__    
-     _\/\\\____\///_____\/\\\___/\\\\\\\\\\_____\/\\\________/\\\\\\\\\\__\/\\\___\///_____\/\\\_______/\\\__\//\\\_   
-      _\/\\\_____________\/\\\__/\\\/////\\\_____\/\\\_______/\\\/////\\\__\/\\\____________\/\\\_/\\__\//\\\__/\\\__  
-       _\/\\\_____________\/\\\_\//\\\\\\\\/\\____\/\\\______\//\\\\\\\\/\\_\/\\\____________\//\\\\\____\///\\\\\/___ 
-        _\///______________\///___\////////\//_____\///________\////////\//__\///______________\/////_______\/////_____
+🔹 Actualmente, estudio en **42 Urduliz**, donde refuerzo mis habilidades en programación avanzada.  
 
-```
-Estudiante de 42 Urduliz
+🔹 Busco oportunidades en estudios de **videojuegos y tecnología interactiva**.  
+
+---
+
+## 🚀 **Habilidades Técnicas**  
+🔹 **Lenguajes de Programación:** C, C#, Python  
+🔹 **Motores de Juego:** Unity (C#) | Unreal Engine (Blueprints)  
+🔹 **Desarrollo Web:** WordPress, HTML, CSS  
+🔹 **Herramientas Gráficas:** Maya, Substance Painter, Photoshop, Illustrator  
+
+---
+
+## 🎮 **Proyectos Destacados**  
+
+🔹 **[A Bubble Out](https://manuelfarto.itch.io/)** - Juego desarrollado en la **Global Game Jam 2024**. 🌍  
+🔹 **Clones Virtuales en Unreal Engine** - Desarrollo de entornos VR de alta fidelidad. (Proyecto bajo NDA)  
+🔹 **[Página Web de Zirkozaurre](https://zirkozaurre.com/)** - Diseño y desarrollo en **WordPress, HTML y CSS**.  
+
+✨ ¡Estoy trabajando en más proyectos! Pronto subiré nuevos repositorios.  
+
+---
+
+## 📫 **Contacto y Redes**  
+🔹 **Itch.io:** [manuelfarto.itch.io](https://manuelfarto.itch.io/)  
+🔹 **LinkedIn:** [Tu perfil aquí]  
+🔹 **GitHub:** [ManuelFarto](https://github.com/ManuelFarto)  
+
+---
+
+🔥 *Siempre aprendiendo y mejorando. ¡Vamos a crear algo increíble!* 🔥  
