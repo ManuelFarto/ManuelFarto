@@ -1,5 +1,5 @@
 ![Baner](https://github.com/user-attachments/assets/621265cf-e650-4d50-91cc-47c9bf87c7f3)
- 🎮 ¡Hola! Soy Manuel Farto  
+#### 🎮 ¡Hola! Soy Manuel Farto  
 ### 🚀 Programador de Videojuegos y VR | Unity | Unreal Engine  
 
 🔹 Apasionado por la programación y el desarrollo de videojuegos. Con experiencia en **Unity (C#)** y **Unreal Engine (Blueprints)**, me encanta crear experiencias inmersivas, desde juegos hasta entornos de realidad virtual.  
