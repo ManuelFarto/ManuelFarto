@@ -29,7 +29,7 @@
 
 ## 📫 **Contacto y Redes**  
 🔹 **Itch.io:** [manuelfarto.itch.io](https://manuelfarto.itch.io/)  
-🔹 **LinkedIn:** [ManuelFarto](https://www.linkedin.com/in/manuel-farto-gayoso-756314254/)
+🔹 **LinkedIn:** [ManuelFarto](https://www.linkedin.com/in/manuel-farto-gayoso-756314254/)   
 🔹 **GitHub:** [ManuelFarto](https://github.com/ManuelFarto)  
 
 ---
