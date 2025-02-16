@@ -20,7 +20,7 @@
 
 ## 🎮 **Proyectos Destacados**  
 
-🔹 **[Vrgos](https://manuelfarto.github.io/Vrgos/)** – Proyecto creado en el **Hackathon de La Nasa**. Una simulación de órbitas en VR, desarrollada con **JavaScript y HTML** para la web. 🚀  
+🔹 **[Vrgos](https://manuelfarto.github.io/Vrgos/)** – Una simulación de órbitas en VR, desarrollada con **JavaScript y HTML** para la web.🚀  
 🔹 **Clones Virtuales en Unreal Engine** - Desarrollo de entornos VR de alta fidelidad. (Proyecto bajo NDA)  
 🔹 **[Página Web de Zirkozaurre](https://zirkozaurre.com/)** - Diseño y desarrollo en **WordPress, HTML y CSS**.  
 
