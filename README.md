@@ -13,7 +13,7 @@
 ## 🚀 **Habilidades Técnicas**  
 🔹 **Lenguajes de Programación:** C, C#, Python  
 🔹 **Motores de Juego:** Unity (C#) | Unreal Engine (Blueprints)  
-🔹 **Desarrollo Web:** WordPress, HTML, CSS  
+🔹 **Desarrollo Web:** WordPress, HTML, CSS, JavaScript  
 🔹 **Herramientas Gráficas:** Maya, Substance Painter, Photoshop, Illustrator  
 
 ---
