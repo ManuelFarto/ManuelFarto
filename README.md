@@ -1,5 +1,4 @@
 ![Baner](https://github.com/user-attachments/assets/621265cf-e650-4d50-91cc-47c9bf87c7f3)
-![ChatGPT Image May 5, 2025, 06_42_25 PM](https://github.com/user-attachments/assets/792c3c16-4c89-4d64-a70a-b95d5d118585)
 
 #### 🎮 ¡Hola! Soy Manuel Farto  
 ### 🚀 Programador de Videojuegos y VR | Unity | Unreal Engine  
