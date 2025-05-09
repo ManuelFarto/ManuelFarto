@@ -1,5 +1,5 @@
 ![Baner](https://github.com/user-attachments/assets/621265cf-e650-4d50-91cc-47c9bf87c7f3)
-![Baner](https://github.com/user-attachments/assets/113c092c-db78-4376-9ae2-da0d37116aa9)
+![Baner]([https://github.com/user-attachments/assets/113c092c-db78-4376-9ae2-da0d37116aa9](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fl%3Dspanish%26id%3D1366661990&psig=AOvVaw3WjzD4wEXBcBCvOA_PjTaq&ust=1746889411826000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjBh9DSlo0DFQAAAAAdAAAAABA6))
 
 
 #### 🎮 ¡Hola! Soy Manuel Farto  
