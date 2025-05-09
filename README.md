@@ -1,4 +1,3 @@
-![Baner](https://github.com/user-attachments/assets/621265cf-e650-4d50-91cc-47c9bf87c7f3)
 ![descarga](https://github.com/user-attachments/assets/88bf537e-7bf5-48c1-9769-6b29a8f72c07)
 
 #### 🎮 ¡Hola! Soy Manuel Farto  
