@@ -1,5 +1,5 @@
 ![Baner](https://github.com/user-attachments/assets/621265cf-e650-4d50-91cc-47c9bf87c7f3)
-![Baner]([https://github.com/user-attachments/assets/621265cf-e650-4d50-91cc-47c9bf87c7f3](https://images.steamusercontent.com/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false))
+![descarga](https://github.com/user-attachments/assets/88bf537e-7bf5-48c1-9769-6b29a8f72c07)
 
 #### 🎮 ¡Hola! Soy Manuel Farto  
 ### 🚀 Programador de Videojuegos y VR | Unity | Unreal Engine  
